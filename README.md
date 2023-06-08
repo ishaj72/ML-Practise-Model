@@ -1,5 +1,5 @@
 The repository consists of different ml model.<br />
 Collab files it contains: <br />
-1) SGD classifier <br />
+1) Convulation <br />
 2) Linear Regression <br />
-3) Convolution <br />
+3) SGD <br />
