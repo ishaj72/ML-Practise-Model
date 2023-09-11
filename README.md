@@ -4,3 +4,4 @@ Collab files it contains: <br />
 2) Linear Regression <br />
 3) SGD <br />
 4) KMeans Clustering<br />
+5) Random Forest Classifier<br />
